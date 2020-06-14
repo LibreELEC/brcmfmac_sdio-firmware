@@ -1,7 +1,7 @@
 # brcmfmac_sdio-firmware
 The following wireless/bluetooth modules are currently supported:
 
-* AP6212 Khadas_VIM _basic_
+* AP6212 Khadas_VIM _basic_, NanoPi K2
 * AP6255 WeTek_Hub v2, Khadas_VIM _pro_
 * AP6330 WeTek_Play_2, Cubox-i2/4
 * AP6335 WeTek_Hub v1
